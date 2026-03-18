@@ -2,7 +2,7 @@
 
 A GNS3 home lab simulating a small office network with Python automation using Netmiko.
 
-## Topology
+## Topology![Topology](topology.png)
 
 ```
 [PC1] --- [SW2] --- [R1] ---OSPF--- [R2] --- [SW1] --- [PC2]

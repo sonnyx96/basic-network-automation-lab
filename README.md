@@ -29,10 +29,10 @@ A GNS3 home lab simulating a small office network with Python automation using N
 SSHs into both routers and pulls interface status using `show ip interface brief`.
 
 ### backup_[configs.py](https://github.com/sonnyx96/basic-network-automation-lab/blob/main/backup_configs.py)
-
 SSHs into both routers, pulls the full running config, and saves timestamped backup files locally.
+Sample backup output files are available in the [/samples](https://github.com/sonnyx96/basic-network-automation-lab/tree/main/samples) folder.
 
-Example output:
+Example output("show ip interface brief":
 
 ```
 Connecting to R1...
